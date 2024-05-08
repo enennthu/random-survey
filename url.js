@@ -11,6 +11,4 @@ const urls = [
 	'https://forms.fillout.com/t/9sRZqucyRwus',
 	'https://forms.fillout.com/t/p6fgdscdnPus',
 	'https://forms.fillout.com/t/17q6HmtfSgus',
-	'https://forms.fillout.com/t/xs6SYn4vxmus',
-	'https://forms.fillout.com/t/kfMNJJ4b8Nus'
 	];
